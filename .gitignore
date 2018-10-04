@@ -3,3 +3,4 @@
 *.pdv
 Debug/
 .vs/
+ *.pdb
